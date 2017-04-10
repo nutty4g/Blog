@@ -1,1 +1,12 @@
-
+}
+body{
+    background-color: #FAF8DA;
+    font-family: 'open sans';
+}
+.primary-footer{
+       background-color: #FFC122;
+}
+.created-by{
+      color: #ffffff;
+       font-size: 20;
+}
